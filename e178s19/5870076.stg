@@ -1,0 +1,6 @@
+OBJECT_BASE 5870076.btg
+OBJECT NFNA.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml 178.551891 -18.039892 7.3 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 178.566765 -18.046425 4.7 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 178.560356 -18.042507 5.5 0.00
+OBJECT_SHARED Models/Airport/beacon.xml 178.559573 -18.042441 5.6 0.00
